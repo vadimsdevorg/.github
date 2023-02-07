@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[vadimsdev.com][https://vadimsdev.com]
+https://vadimsdev.com
 
 <!--
 
